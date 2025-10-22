@@ -1,0 +1,9 @@
+# Basic requirements for simple face detection
+opencv-python>=4.8.0
+
+# Advanced requirements for DeepFace version (optional)
+# Uncomment below if using face-detect-streaming.py with DeepFace
+deepface>=0.0.95
+tf-keras>=2.20.0
+tensorflow>=2.20.0
+pillow>=9.0.0
